@@ -1,3 +1,4 @@
+"use client"
 import { Canvas } from "@/components/Canvas/Canvas";
 import { ToolBar } from "@/components/ToolBar/Toolbar";
 import { Modals } from "@/components/ui/Modals/Modals";
