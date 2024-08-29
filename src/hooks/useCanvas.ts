@@ -1,3 +1,4 @@
+"use client"
 import { signal } from "@preact/signals-react";
 import { $ } from "@/lib/utils";
 import {
